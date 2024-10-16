@@ -24,10 +24,6 @@ RegisterNumber:  212223110010
 */
 ```
 ```
-/*
-Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: BHAVATHARANI S
-RegisterNumber:  212223230032
 import pandas as pd
 data=pd.read_csv('Placement_Data.csv')
 data.head()
